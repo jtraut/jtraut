@@ -44,5 +44,5 @@ I build things that run reliably under pressure — RFID timing systems for live
 
 ---
 
-📬 jaketraut@gmail.com · [github.com/jtraut](https://github.com/jtraut) · [LinkedIn](www.linkedin.com/in/jake-traut-b1a31383)
+📬 jaketraut@gmail.com · [LinkedIn](www.linkedin.com/in/jake-traut-b1a31383)
 
