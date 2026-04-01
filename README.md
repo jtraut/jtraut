@@ -8,28 +8,40 @@
  \___/ \_/  |_|\__,_|___/_|  \__,_|\__,_| \__|
 ```
 
-**CS grad · CU Boulder** · building things from dice games to chaos models
+**Sr. Embedded Software Engineer · Denver, CO · 9+ years building production systems**
 
 ---
 
-I write software close to the metal — C, C++, MATLAB — and I'm drawn to problems where **math meets mechanics**: chaotic systems, numerical methods, and logic games with clean rules.
+I build things that run reliably under pressure — RFID timing systems for live races, atmospheric data pipelines for real-time weather, cross-platform mobile apps shipped to the App Store. I work close to the hardware and care about correctness, latency, and systems that don't lie.
 
-### 🗂 stack
+---
 
-`C++` &nbsp; `C` &nbsp; `JavaScript` &nbsp; `Dart/Flutter` &nbsp; `Python` &nbsp; `Bash/Shell` &nbsp; `Go` &nbsp; `MATLAB` &nbsp; `CSS`
+### 🛠 stack
 
-### 📌 pinned highlights
+`C++` `C` `Dart/Flutter` `ReactJS` `Python` `Scala` `Go` `Kotlin` `Swift` `Bash`  
+`Embedded Linux` `RTOS` `AWS IoT` `TCP/IP · UDP` `BLE` `Docker · CI/CD`
+
+---
+
+### 🎮 personal projects
 
 | project | description | lang |
 |---|---|---|
 | [farkle](https://github.com/jtraut/farkle) | dice game engine with scoring logic | C |
-| [Tetris-Object-Oriented](https://github.com/jtraut/Tetris-Object-Oriented) | flyweight + observer patterns in action | JavaScript |
-| [TicTacToe](https://github.com/jtraut/TicTacToe) | terminal-native C++ game loop | C++ |
-| [Chaotic-Dynamics](https://github.com/jtraut/Chaotic-Dynamics) | CSCI 4446 — modelling butterfly effects | MATLAB |
-| [Numerical-Computations](https://github.com/jtraut/Numerical-Computations) | CSCI 3656 — methods & approximations | MATLAB |
+| [Tetris-Object-Oriented](https://github.com/jtraut/Tetris-Object-Oriented) | flyweight + observer patterns | JavaScript |
+| [Chaotic-Dynamics](https://github.com/jtraut/Chaotic-Dynamics) | modelling butterfly effects — CSCI 4446 | MATLAB |
+| [Numerical-Computations](https://github.com/jtraut/Numerical-Computations) | methods & approximations — CSCI 3656 | MATLAB |
 
-### 💡 what I think about
+---
 
-> **chaos theory** — tiny inputs, wildly different outputs.  
-> **game design** — constraints that produce emergent complexity.  
+### 💡 what drives me
+
+> **hardware + software** — the seam where firmware meets the physical world.
+> **real-time systems** — when latency is measured in milliseconds and correctness matters.
 > **low-level systems** — because understanding the machine matters.
+> **chaos theory** — tiny inputs, wildly different outputs.
+> **game design** — constraints that produce emergent complexity.
+
+---
+
+📬 jaketraut@gmail.com · [github.com/jtraut](https://github.com/jtraut) · Denver, CO
