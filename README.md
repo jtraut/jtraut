@@ -16,7 +16,7 @@ I write software close to the metal — C, C++, MATLAB — and I'm drawn to prob
 
 ### 🗂 stack
 
-`C` &nbsp; `C++` &nbsp; `JavaScript` &nbsp; `MATLAB` &nbsp; `Bash/Shell` &nbsp; `Numerical Methods`
+`C++` &nbsp; `C` &nbsp; `JavaScript` &nbsp; `Dart/Flutter` &nbsp; `Python` &nbsp; `Bash/Shell` &nbsp; `Go` &nbsp; `MATLAB` &nbsp; `CSS`
 
 ### 📌 pinned highlights
 
