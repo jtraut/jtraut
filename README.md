@@ -36,12 +36,13 @@ I build things that run reliably under pressure — RFID timing systems for live
 
 ### 💡 what drives me
 
-> **hardware + software** — the seam where firmware meets the physical world.
-> **real-time systems** — when latency is measured in milliseconds and correctness matters.
-> **low-level systems** — because understanding the machine matters.
-> **chaos theory** — tiny inputs, wildly different outputs.
+> **hardware + software** — the seam where firmware meets the physical world.   
+> **real-time systems** — when latency is measured in milliseconds and correctness matters.   
+> **low-level systems** — because understanding the machine matters.   
+> **chaos theory** — tiny inputs, wildly different outputs.   
 > **game design** — constraints that produce emergent complexity.
 
 ---
 
-📬 jaketraut@gmail.com · [github.com/jtraut](https://github.com/jtraut) · Denver, CO
+📬 jaketraut@gmail.com · [github.com/jtraut](https://github.com/jtraut) · [LinkedIn](www.linkedin.com/in/jake-traut-b1a31383)
+
