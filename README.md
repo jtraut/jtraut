@@ -1,11 +1,9 @@
 <!-- Jake Traut — GitHub Profile README -->
 ```
-     _     _        _____                 _   
-    | |   | |      |_   _|               | |  
-    | |   | | __ _  | |_ __ __ _ _   _ | |_ 
- _  | |_/ /| |/ _` | | | '__/ _` | | | || __|
-| |_| |\  / | | (_| |_| | | | (_| | |_| || |_ 
- \___/ \_/  |_|\__,_|___/_|  \__,_|\__,_| \__|
+[ system boot ] jake_traut.init — loading profile...
+╔══════════════════════╗
+║   J A K E  T R A U T  ║  // human.exe
+╚══════════════════════╝
 ```
 
 **Sr. Embedded Software Engineer · Denver, CO · 9+ years building production systems**
