@@ -1,10 +1,5 @@
 <!-- Jake Traut — GitHub Profile README -->
-```
-[ system boot ] jake_traut.init — loading profile...
-╔══════════════════════╗
-║   J A K E  T R A U T  ║  // human.exe
-╚══════════════════════╝
-```
+## Hi 👋, I'm Jake (not from State Farm)
 
 **Sr. Embedded Software Engineer · Denver, CO · 9+ years building production systems**
 
