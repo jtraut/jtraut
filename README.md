@@ -1,5 +1,5 @@
 <!-- Jake Traut — GitHub Profile README -->
-**Hi 👋, I'm Jake (not from State Farm)**
+### Hi 👋, I'm Jake (not from State Farm)
 
 **Sr. Embedded Software Engineer · Denver, CO · 9+ years building production systems**
 
