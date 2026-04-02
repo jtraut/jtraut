@@ -11,7 +11,7 @@ I build things that run reliably under pressure — RFID timing systems for live
 
 ### 🛠 stack
 
-`C++` `C` `Dart/Flutter` `ReactJS` `Python` `Scala` `Go` `Kotlin` `Swift` `Bash`  
+`C++` `Dart/Flutter` `ReactJS` `Python` `Scala` `C` `Go` `Kotlin` `Swift` `Bash`  
 `Embedded Linux` `RTOS` `AWS IoT` `TCP/IP · UDP` `BLE` `Docker · CI/CD`
 
 ---
