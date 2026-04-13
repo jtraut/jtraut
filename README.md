@@ -21,7 +21,7 @@ I build things that run reliably under pressure — RFID timing systems for live
 | project | description | lang |
 |---|---|---|
 | [farkle](https://github.com/jtraut/farkle) | dice game engine with scoring logic | C |
-| [Tetris-Object-Oriented](https://github.com/jtraut/Tetris-Object-Oriented) | flyweight + observer patterns | JavaScript |
+| [Tetris-Object-Oriented](https://github.com/jtraut/Tetris-Object-Oriented) | flyweight + observer patterns | Java |
 | [Chaotic-Dynamics](https://github.com/jtraut/Chaotic-Dynamics) | modelling butterfly effects — CSCI 4446 | MATLAB |
 | [Numerical-Computations](https://github.com/jtraut/Numerical-Computations) | methods & approximations — CSCI 3656 | MATLAB |
 
