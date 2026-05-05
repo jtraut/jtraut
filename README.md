@@ -5,7 +5,7 @@
 
 ---
 
-I build things that run reliably under pressure — RFID timing systems for live races, atmospheric data pipelines for real-time weather, cross-platform mobile apps shipped to the App Store. I work close to the hardware and care about correctness, latency, and systems that don't lie.
+I build things that run reliably under pressure — RFID timing systems for live races, atmospheric data pipelines for real-time weather, cross-platform mobile apps shipped to the App Store & Google Play. I work close to the hardware and care about correctness, latency, and systems that don't lie.
 
 ---
 
@@ -20,6 +20,7 @@ I build things that run reliably under pressure — RFID timing systems for live
 
 | project | description | lang |
 |---|---|---|
+| [Sudoku](https://github.com/jtraut/sudoku) | game engine built leveraging Claude Code | Python |
 | [Farkle](https://github.com/jtraut/farkle) | dice game engine with scoring logic | C |
 | [Tetris-Object-Oriented](https://github.com/jtraut/Tetris-Object-Oriented) | flyweight + observer patterns | Java |
 | [Tic-Tac-Toe](https://github.com/jtraut/TicTacToe) | game engine with grid pattern detection | C++ |
