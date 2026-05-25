@@ -24,7 +24,7 @@ I build things that run reliably under pressure — RFID timing systems for live
 | [Farkle](https://github.com/jtraut/farkle) | dice game engine with scoring logic | C |
 | [Tetris-Object-Oriented](https://github.com/jtraut/Tetris-Object-Oriented) | flyweight + observer patterns | Java |
 | [Tic-Tac-Toe](https://github.com/jtraut/TicTacToe) | game engine with grid pattern detection | C++ |
-| [Chaotic-Dynamics](https://github.com/jtraut/Chaotic-Dynamics) | modelling butterfly effects — CSCI 4446 | MATLAB |
+| [C++20-Cheatsheet](https://github.com/jtraut/Cpp20-Cheatsheet) | C++20 overview & cheatsheet | HTML |
 | [Love-Map](https://github.com/jtraut/Love-Map) | Interactive "Love Map" following Gottman methods | HTML |
 
 
