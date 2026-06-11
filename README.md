@@ -20,6 +20,7 @@ I build things that run reliably under pressure — RFID timing systems for live
 
 | project | description | lang |
 |---|---|---|
+| [Job-Hunt-Kanban](https://github.com/jtraut/Job-Hunt-Kanban) | Kanban board for tracking job applications | HTML, Python, JSON |
 | [Sudoku](https://github.com/jtraut/sudoku) | game engine built leveraging Claude Code | Python |
 | [Farkle](https://github.com/jtraut/farkle) | dice game engine with scoring logic | C |
 | [Tetris-Object-Oriented](https://github.com/jtraut/Tetris-Object-Oriented) | flyweight + observer patterns | Java |
