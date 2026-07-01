@@ -23,7 +23,7 @@ I build things that run reliably under pressure — RFID timing systems for live
 | [Job-Hunt-Kanban](https://github.com/jtraut/Job-Hunt-Kanban) | Kanban board for tracking job applications | HTML, Python, JSON |
 | [Sudoku](https://github.com/jtraut/sudoku) | game engine built leveraging Claude Code | Python |
 | [Farkle](https://github.com/jtraut/farkle) | dice game engine with scoring logic | C |
-| [Tetris-Object-Oriented](https://github.com/jtraut/Tetris-Object-Oriented) | flyweight + observer patterns | Java |
+| [Couchworthy](https://github.com/jtraut/Couchworthy) | mood-based movie recommender w/ streaming filters | JavaScript |
 | [Tic-Tac-Toe](https://github.com/jtraut/TicTacToe) | game engine with grid pattern detection | C++ |
 | [Embedded-Fundamentals](https://github.com/jtraut/Embedded-Fundamentals) | embedded systems fundamentals & reference | C/C++, HTML |
 | [Love-Map](https://github.com/jtraut/Love-Map) | Interactive "Love Map" following Gottman methods | HTML |
