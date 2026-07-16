@@ -25,7 +25,7 @@ I build things that run reliably under pressure — RFID timing systems for live
 | [Job-Hunt-Kanban](https://github.com/jtraut/Job-Hunt-Kanban) | Kanban board for tracking job applications | HTML, Python, JSON |
 | [Sudoku](https://github.com/jtraut/sudoku) | game engine built leveraging Claude Code | Python |
 | [Farkle](https://github.com/jtraut/farkle) | dice game engine with scoring logic | C |
-| [Embedded-Fundamentals](https://github.com/jtraut/Embedded-Fundamentals) | embedded systems fundamentals & reference | C/C++, HTML |
+| [pub-sub-crawl](https://github.com/jtraut/pub-sub-crawl) | multi-threaded async pub/sub messaging sim over a socket transport | C |
 | [Love-Map](https://github.com/jtraut/Love-Map) | Interactive "Love Map" following Gottman methods | HTML |
 
 
