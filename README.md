@@ -23,9 +23,9 @@ I build things that run reliably under pressure — RFID timing systems for live
 | [StonkMonk](https://github.com/jtraut/StonkMonk) | daily Nasdaq stock picker w/ deterministic signals & LLM-written rationale | Python, TypeScript |
 | [Couchworthy](https://github.com/jtraut/Couchworthy) | mood-based movie recommender w/ streaming filters | TypeScript |
 | [Job-Hunt-Kanban](https://github.com/jtraut/Job-Hunt-Kanban) | Kanban board for tracking job applications | HTML, Python, JSON |
+| [pub-sub-crawl](https://github.com/jtraut/pub-sub-crawl) | multi-threaded async pub/sub messaging sim over a socket transport | C |
 | [Sudoku](https://github.com/jtraut/sudoku) | game engine built leveraging Claude Code | Python |
 | [Farkle](https://github.com/jtraut/farkle) | dice game engine with scoring logic | C |
-| [pub-sub-crawl](https://github.com/jtraut/pub-sub-crawl) | multi-threaded async pub/sub messaging sim over a socket transport | C |
 | [Love-Map](https://github.com/jtraut/Love-Map) | Interactive "Love Map" following Gottman methods | HTML |
 
 
